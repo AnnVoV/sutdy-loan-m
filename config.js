@@ -2,7 +2,7 @@ module.exports = {
   'public': '/Users/ann/Documents/Netease/epay-loan',
   port: '80',
   ftl: {
-    base: '/Users/ann/Documents/Netease/epay-loan/ftl',
+    base: '',
     global: {
  
     },
